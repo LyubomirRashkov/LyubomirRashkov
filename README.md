@@ -32,7 +32,7 @@
 <section>
   <h3 align="center">Language Card:</h3>
   <div align="center"> 
-    <a href="https://github.com/lyubomirrashkov"><img height="180em" alt="My Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomirRashkov&langs_count=5&layout=compact&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" /> </a>
+    <a href="https://github.com/lyubomirrashkov"><img height="180em" alt="My Language Card" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=LyubomirRashkov&langs_count=5&layout=compact&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" /> </a>
   </div>
 </section>
 
