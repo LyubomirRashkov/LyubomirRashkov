@@ -160,7 +160,7 @@
         </tr>
         <tr align="center">
           <td>
-            <a href="https://softuni.bg/trainings/4175/algorithms-fundamentals-with-c-sharp-may-2023">JavaScript Front-End - February 2023</a>
+            <a href="https://softuni.bg/trainings/4175/algorithms-fundamentals-with-c-sharp-may-2023">Algorithms Fundamentals with C# - май 2023</a>
           </td>
           <td>
             <a href="https://softuni.bg/certificates/details/176629/4d4e5c9b">:thumbsup: :scroll: :heavy_check_mark:</a>
