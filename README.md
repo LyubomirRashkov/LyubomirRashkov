@@ -158,6 +158,17 @@
             <a href="https://softuni.bg/certificates/details/168376/2a684bd7">6.00 (6.00)</a>
           </td>
         </tr>
+        <tr align="center">
+          <td>
+            <a href="https://softuni.bg/trainings/4175/algorithms-fundamentals-with-c-sharp-may-2023">JavaScript Front-End - February 2023</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/176629/4d4e5c9b">:thumbsup: :scroll: :heavy_check_mark:</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/176629/4d4e5c9b">6.00 (6.00)</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
