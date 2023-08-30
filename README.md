@@ -177,7 +177,7 @@
             <a href="https://softuni.bg/certificates/details/184501/e9382fac">:thumbsup: :scroll: :heavy_check_mark:</a>
           </td>
           <td>
-            <a href="https://softuni.bg/certificates/details/184501/e9382fac">5.64 (6.00)</a>
+            <a href="https://softuni.bg/certificates/details/184501/e9382fac">6.00 (6.00)</a>
           </td>
         </tr>
       </tbody>
