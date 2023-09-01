@@ -39,6 +39,15 @@
 <hr />
 
 <section>
+  <h3 align="center">Diploma:</h3>
+  <div align="center">
+    <a href="https://softuni.bg/certificates/details/185052/18601225" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?export=view&id=1CWGL2COH-DdWkd74WGJee5TJ4OCrnwrP" alt="Diploma for C# Web Developer" width="400" height="2000" /> </a>
+  </div>
+</section>
+
+<hr />
+
+<section>
   <h3 align="center">Courses and Certificates:</h3>
   <div align="center">
     <table border="1px solid">
