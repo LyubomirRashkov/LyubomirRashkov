@@ -178,7 +178,7 @@
             <a href="https://softuni.bg/certificates/details/176629/4d4e5c9b">6.00 (6.00)</a>
           </td>
         </tr>
-		 <tr align="center">
+		<tr align="center">
           <td>
             <a href="https://softuni.bg/trainings/4178/algorithms-advanced-with-c-sharp-july-2023">Algorithms Advanced with C# - July 2023</a>
           </td>
@@ -187,6 +187,17 @@
           </td>
           <td>
             <a href="https://softuni.bg/certificates/details/184501/e9382fac">6.00 (6.00)</a>
+          </td>
+        </tr>
+		<tr align="center">
+          <td>
+            <a href="https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023">Data Structures Fundamentals with C# - September 2023</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/185515/4bfa0ed0">:thumbsup: :scroll: :heavy_check_mark:</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/185515/4bfa0ed0">6.00 (6.00)</a>
           </td>
         </tr>
       </tbody>
