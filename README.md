@@ -41,7 +41,7 @@
 <section>
   <h3 align="center">Diploma:</h3>
   <div align="center">
-    <a href="https://softuni.bg/certificates/details/185052/18601225" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1-XWGH2NMawW0cijvOk7keBDEiDLBRzqC/view?usp=sharing" alt="Diploma for C# Web Developer" width="400" height="1800" /> </a>
+    <a href="https://softuni.bg/certificates/details/185052/18601225" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1-XWGH2NMawW0cijvOk7keBDEiDLBRzqC/view?usp=drive_link" alt="Diploma for C# Web Developer" width="400" height="1800" /> </a>
   </div>
 </section>
 
