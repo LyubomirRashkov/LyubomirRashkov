@@ -200,6 +200,17 @@
             <a href="https://softuni.bg/certificates/details/185515/4bfa0ed0">6.00 (6.00)</a>
           </td>
         </tr>
+		<tr align="center">
+          <td>
+            <a href="https://softuni.bg/trainings/4273/data-structures-advanced-with-csharp-november-2023">Data Structures Advanced with C# - November 2023</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/199051/ac6ae75d">:thumbsup: :scroll: :heavy_check_mark:</a>
+          </td>
+          <td>
+            <a href="https://softuni.bg/certificates/details/199051/ac6ae75d">6.00 (6.00)</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
